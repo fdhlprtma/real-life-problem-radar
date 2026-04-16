@@ -1,0 +1,9 @@
+/.env
+/vendor/
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+/storage/reports/*
+!/storage/reports/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/database.sqlite

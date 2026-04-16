@@ -1,0 +1,27 @@
+{
+  "name": "RLP Radar",
+  "short_name": "RLP Radar",
+  "description": "Platform pelaporan masyarakat dan respons instansi pemerintah berbasis AI.",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "start_url": "./login.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f1e8",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "assets/img/pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/img/pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
